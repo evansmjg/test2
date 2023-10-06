@@ -1,3 +1,3 @@
 this is how to create a file.
 
-lets create a conflict!
+i dont want a conflict.
